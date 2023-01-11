@@ -4,4 +4,4 @@
 
 HTML and CSS used.
 
-1[](proje1.gif)
+![](proje1.gif)
